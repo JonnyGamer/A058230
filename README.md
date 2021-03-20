@@ -1,6 +1,7 @@
-```python
-# This Python Program finds solutions for A058230
+# A058230
+This Python program prints solutions for A058230
 
+```python
 # These are chached values for word lengths of million, billion, trillion, quadrillion.
 # Or [7, 7, 8, 11, 11, ...]
 # You may notice that this array is actually 2 less than these values, starting at index = 1.
