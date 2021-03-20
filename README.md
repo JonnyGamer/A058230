@@ -1,3 +1,4 @@
+```python
 # This Python Program finds solutions for A058230
 
 # These are chached values for word lengths of million, billion, trillion, quadrillion.
@@ -121,3 +122,4 @@ while True:
     founder = filter(lambda p: p > lower and p < upper and p == fourFour(p) and p not in found, copyTreble)
     f = [print(str(k) + ",") for k in sorted(founder)]
     i += 1
+```
